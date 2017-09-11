@@ -5,6 +5,9 @@ It extends the [TCN project](https://sermanet.github.io/tcn/) with Reinforcement
 
 ### [[ Paper ]](https://arxiv.org/abs/1704.06888) [[ Video ]]()
 
+### Self-supervised imitation
+<img src='docs/figs/kuka_pouring.mov.gif'>
+
 ##### Abstract
 # Citation
 
