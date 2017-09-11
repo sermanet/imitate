@@ -8,6 +8,8 @@ It extends the [TCN project](https://sermanet.github.io/tcn/) with Reinforcement
 ### Self-supervised imitation
 <img src='docs/figs/kuka_pouring.mov.gif'>
 
+<img src='docs/figs/kuka_dishrack.mov.gif'>
+
 ##### Abstract
 # Citation
 
