@@ -10,6 +10,8 @@ It extends the [TCN project](https://sermanet.github.io/tcn/) with Reinforcement
 
 <img src='docs/figs/kuka_dishrack.mov.gif'>
 
+<img src='docs/figs/pose_all.mov.gif'>
+
 ##### Abstract
 # Citation
 
