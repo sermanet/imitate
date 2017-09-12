@@ -1,4 +1,4 @@
-# Learning to imitate, from pixels, without supervision
+# Learning to imitate, from video, without supervision
 
 This project is part of the larger [Unsupervised Imitation Learning](https://sermanet.github.io/imitation/) project.
 It extends the [TCN project](https://sermanet.github.io/tcn/) with Reinforcement Learning and more real robots.
@@ -23,7 +23,7 @@ It extends the [TCN project](https://sermanet.github.io/tcn/) with Reinforcement
 
 ```
 @article{TCN2017,
-  title={Time-Contrastive Networks: Self-Supervised Learning from Pixels},
+  title={Time-Contrastive Networks: Self-Supervised Learning from Video},
   author={Sermanet, Pierre and Lynch, Corey and Hsu, Jasmine and Levine, Sergey},
   journal={arXiv preprint arXiv:1704.06888},
   year={2017}
