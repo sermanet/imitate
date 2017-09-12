@@ -14,9 +14,9 @@ It extends the [TCN project](https://sermanet.github.io/tcn/) with Reinforcement
 
 ### Learning control
 
-<img src='docs/figs/kuka_dishrack_control.mov.gif'>
-
 <img src='docs/figs/kuka_pouring_control.mov.gif'>
+
+<img src='docs/figs/kuka_dishrack_control.mov.gif'>
 
 ##### Abstract
 # Citation
