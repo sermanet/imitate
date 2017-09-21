@@ -24,7 +24,7 @@ It extends the [TCN project](https://sermanet.github.io/tcn/) with Reinforcement
 ```
 @article{TCN2017,
   title={Time-Contrastive Networks: Self-Supervised Learning from Video},
-  author={Sermanet, Pierre and Lynch, Corey and Hsu, Jasmine and Levine, Sergey},
+  author={Sermanet, Pierre and Lynch, Corey and Chebotar, Yevgen and Hsu, Jasmine and Jang, Eric and Schaal, Stefan and Levine, Sergey},
   journal={arXiv preprint arXiv:1704.06888},
   year={2017}
 }
