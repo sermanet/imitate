@@ -5,6 +5,10 @@ It extends the [TCN project](https://sermanet.github.io/tcn/) with Reinforcement
 
 ### [[ Paper ]](https://arxiv.org/abs/1704.06888) [[ Video ]](https://www.youtube.com/watch?v=b1UTUQpxPSY) [[ Dataset ]](https://sites.google.com/site/brainrobotdata/home/multiview-pouring)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=b1UTUQpxPSY" target="_blank">
+ <img src="docs/figs/tcn2_youtube_thumbnail.png" alt="TCN" width="480">
+</a>
+
 ### Self-supervised imitation
 <img src='docs/figs/kuka_pouring.mov.gif'>
 
