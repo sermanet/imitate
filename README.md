@@ -3,7 +3,7 @@
 This project is part of the larger [Unsupervised Imitation Learning](https://sermanet.github.io/imitation/) project.
 It extends the [TCN project](https://sermanet.github.io/tcn/) with Reinforcement Learning and more real robots.
 
-### [[ Paper ]](https://arxiv.org/abs/1704.06888) [[ Video ]]() [[ Dataset ]](https://sites.google.com/site/brainrobotdata/home/multiview-pouring)
+### [[ Paper ]](https://arxiv.org/abs/1704.06888) [[ Video ]](https://www.youtube.com/watch?v=b1UTUQpxPSY) [[ Dataset ]](https://sites.google.com/site/brainrobotdata/home/multiview-pouring)
 
 ### Self-supervised imitation
 <img src='docs/figs/kuka_pouring.mov.gif'>
