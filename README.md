@@ -1,5 +1,5 @@
-Pierre Sermanet\1*, Corey Lynch\1*†, Yevgen Chebotar\2*, Jasmine Hsu\1, Eric Jang\1, Stephan Schaal\2, Sergey Levine\1<br>
-\1 Google Brain, \2 University of Southern California<br>
+Pierre Sermanet<sup>1</sup>\*, Corey Lynch<sup>1</sup>\*†, Yevgen Chebotar<sup>2</sup>\*, Jasmine Hsu<sup>1</sup>, Eric Jang<sup>1</sup>, Stephan Schaal<sup>2</sup>, Sergey Levine<sup>1</sup><br>
+<sup>1</sup> Google Brain, <sup>2</sup> University of Southern California<br>
 (* equal contribution, † Google Brain Residency program [g.co/brainresidency](https://research.google.com/teams/brain/residency/))
 
 This project is part of the larger [Unsupervised Imitation Learning](https://sermanet.github.io/imitation/) project.
