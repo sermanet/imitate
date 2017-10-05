@@ -1,6 +1,8 @@
 ---
+layout: page
 title: Learning to imitate, from video, without supervision
 ---
+
 # Learning to imitate, from video, without supervision
 
 This project is part of the larger [Unsupervised Imitation Learning](https://sermanet.github.io/imitation/) project.
