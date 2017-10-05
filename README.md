@@ -11,6 +11,9 @@ It extends the [TCN project](https://sermanet.github.io/tcn/) with Reinforcement
  <img src="docs/figs/tcn2_youtube_thumbnail.png" alt="TCN" width="480">
 </a>
 
+##### Abstract
+
+
 ### Self-supervised imitation
 <img src='docs/figs/kuka_pouring.mov.gif'>
 
@@ -18,13 +21,13 @@ It extends the [TCN project](https://sermanet.github.io/tcn/) with Reinforcement
 
 <img src='docs/figs/pose_all.mov.gif'>
 
-### Learning control
+### Approach
+<img src='docs/figs/step1.mov.gif'>
 
 <img src='docs/figs/kuka_pouring_control.mov.gif'>
 
 <img src='docs/figs/kuka_dishrack_control.mov.gif'>
 
-##### Abstract
 # Citation
 
 ```
