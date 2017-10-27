@@ -17,8 +17,6 @@ We propose a self-supervised approach for learning representations and robotic b
 We train our representations using a triplet loss, where multiple simultaneous viewpoints of the same observation are attracted in the embedding space, while being repelled from temporal neighbors which are often visually similar but functionally different. This signal causes our model to discover attributes that do not change across viewpoint, but do change across time, while ignoring nuisance variables such as occlusions, motion blur, lighting and background.
 We demonstrate that this representation can be used by a robot to directly mimic human poses without an explicit correspondence, and that it can be used as a reward function within a reinforcement learning algorithm. While representations are learned from an unlabeled collection of task-related videos, robot behaviors such as pouring are learned by watching a single 3rd-person demonstration by a human. Reward functions obtained by following the human demonstrations under the learned representation enable efficient reinforcement learning that is practical for real-world robotic systems.
 
-<img src="docs/figs/model.png" width="480">
-
 ### Self-supervised imitation
 <img src='docs/figs/kuka_pouring.mov.gif'>
 
@@ -28,6 +26,8 @@ We demonstrate that this representation can be used by a robot to directly mimic
 
 ### Approach
 <img src='docs/figs/step1.mov.gif'>
+
+<img src="docs/figs/model.png" width="480">
 
 <img src='docs/figs/kuka_pouring_control.mov.gif'>
 
