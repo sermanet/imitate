@@ -25,13 +25,11 @@ We demonstrate that this representation can be used by a robot to directly mimic
 <img src='docs/figs/pose_all.mov.gif'>
 
 ### Approach
-<img src='docs/figs/step1.mov.gif'>
+<img src='docs/figs/step1.mov.gif'><img src='docs/figs/step1_dishrack.mov.gif'>
 
 <img src="docs/figs/model.png" width="480">
 
-<img src='docs/figs/kuka_pouring_control.mov.gif'>
-
-<img src='docs/figs/kuka_dishrack_control.mov.gif'>
+<img src='docs/figs/kuka_pouring_control.mov.gif'><img src='docs/figs/kuka_dishrack_control.mov.gif'>
 
 # Citation
 
