@@ -5,7 +5,7 @@
 This project is part of the larger [Self-Supervised Imitation Learning](https://sermanet.github.io/imitation/) project.
 It extends the [TCN project](https://sermanet.github.io/tcn/) with Reinforcement Learning and more real robots.
 
-### [[ Paper ]](https://arxiv.org/abs/1704.06888) [[ Video ]](https://www.youtube.com/watch?v=b1UTUQpxPSY) [[ Dataset ]](https://sites.google.com/site/brainrobotdata/home/multiview-pouring) [[ Code ]](https://github.com/tensorflow/models/tree/master/research/tcn)
+### [[ Paper ]](https://arxiv.org/abs/1704.06888) [[ Video ]](https://www.youtube.com/watch?v=b1UTUQpxPSY) [[ Dataset ]](https://sites.google.com/site/brainrobotdata/home/multiview-pouring) [[ Code ]](https://github.com/tensorflow/models/tree/master/research/tcn) [[ Slides ]](https://docs.google.com/presentation/d/1EvWSbsFfnceBpN7yG1wnqM2LxySQ0Gi-wTx6QaoVekY/edit?usp=sharing)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=b1UTUQpxPSY" target="_blank">
  <img src="docs/figs/tcn2_youtube_thumbnail.png" alt="TCN" width="480">
